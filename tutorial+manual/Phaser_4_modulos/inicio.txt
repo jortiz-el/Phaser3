@@ -1,0 +1,5 @@
++desde consola despues de haber creado el index.html
+1. $ npm intit -y
+2. $ npm install --save phaser
+
++instalar plugin live server para ver cambios online 
